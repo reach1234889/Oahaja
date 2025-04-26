@@ -62,7 +62,7 @@ module.exports = {
         host: "103.75.189.231",
         port: 3005,
         password: "youshallnotpass",
-        id: "Node-1",
+        id: "node",
         secure: false,
       },
     ],
