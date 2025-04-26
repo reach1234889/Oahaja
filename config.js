@@ -63,7 +63,7 @@ module.exports = {
         port: 3005,
         password: "youshallnotpass",
         id: "Node-1",
-        secure: false,
+        secure: true,
       },
     ],
   },
