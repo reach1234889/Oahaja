@@ -110,7 +110,7 @@ async function getHelpMenu({ client, guild }) {
     .setLabel("Support Server")
     .setEmoji('1238430085795545139')
     .setStyle(ButtonStyle.Link)
-    .setURL("https://discord.gg/sNGBwSeZYM");
+    .setURL("https://discord.gg/amd-x7-950622488461738044");
 
   const inviteButton = new ButtonBuilder()
     .setLabel("Invite Me")
@@ -156,12 +156,12 @@ async function getHelpMenu({ client, guild }) {
           inline: true
         }
         ])
-    .setDescription(`<a:loading:1238429820933640283> **Emerald GX is here to help. \n > It is a multipourpose bot for your discord. \n > It can help you to build a Super server.**
+    .setDescription(`<a:loading:1238429820933640283> **GUARD BOT is here to help. \n > It is a multipourpose bot for your discord. \n > It can help you to build a Super server.**
 <a:loading:1238429820933640283> __**BOT INFO**__
 > <:circle:1238429329231314974> Prefix: \`/\`
 > <:circle:1238429329231314974> Discord.js Version: \`v14.15.2\`
 > <:circle:1238429329231314974> Running on \`Node v20.13.1\`
-> <:circle:1238429329231314974> Made by \`friday.su\``);
+> <:circle:1238429329231314974> Made by \`root@meow\``);
 
   return {
     embeds: [embed],
